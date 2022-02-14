@@ -1,4 +1,4 @@
-# chrono-parse-rfc3339
+# ⏱️ chrono-parse-rfc3339
 RFC3339 Date to Microsecond Timestamp wasm module based on Rust Chrono
 
 ### Install
