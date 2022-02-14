@@ -1,0 +1,15 @@
+{
+  "name": "chrono-parse-rfc3339",
+  "collaborators": [
+    "Lorenzo Mangani <lorenzo.mangani@gmail.com>"
+  ],
+  "description": "nodejs microsecond date parser",
+  "version": "0.1.0",
+  "files": [
+    "chrono_parse_rfc3339_bg.wasm",
+    "chrono_parse_rfc3339.js",
+    "chrono_parse_rfc3339.d.ts"
+  ],
+  "main": "chrono_parse_rfc3339.js",
+  "types": "chrono_parse_rfc3339.d.ts"
+}
