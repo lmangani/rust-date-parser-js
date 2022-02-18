@@ -10,3 +10,9 @@ pub fn parse_rfc3339(s: String) -> String {
    let format = "%s%6f";
    return datetime.format(format).to_string();
 }
+
+#[wasm_bindgen]
+pub fn now_rfc3339() -> String {
+   let local: DateTime<Local> = Local::now();
+   return local.to_rfc3339();  
+}
