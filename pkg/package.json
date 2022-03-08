@@ -1,5 +1,5 @@
 {
-  "name": "chrono-parse-rfc3339",
+  "name": "@qxip/chrono-parse-rfc3339",
   "collaborators": [
     "Lorenzo Mangani <lorenzo.mangani@gmail.com>"
   ],
