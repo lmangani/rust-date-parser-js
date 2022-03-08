@@ -49,4 +49,3 @@ pub fn now() -> String {
    let format = "%s%6f";
    return datetime.format(format).to_string();  
 }
-
